@@ -1,0 +1,1 @@
+Todos os exercícios neste repositório necessitam que você esteja com o Webpack configurado.
