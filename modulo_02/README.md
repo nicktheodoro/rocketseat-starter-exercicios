@@ -1,1 +1,1 @@
-Todos os exercícios neste repositório necessitam que você esteja com o Webpack configurado.
+Todos os exercícios neste módulo necessitam que você esteja com o Webpack configurado.

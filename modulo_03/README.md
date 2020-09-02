@@ -1,0 +1,1 @@
+Todos os exercícios neste módulo precisam que você esteja com o plugin do Async/Await do Babel e o babel-polyfill devidamente configurados. Em alguns exercícios é necessário instalar o Axios.
